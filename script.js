@@ -7,3 +7,8 @@ console.log("The sum is : ", a+b);
 let x = 30;
 let y = 10;
 console.log("The substraction is : ",x-y);
+
+// Added third line
+let x = 5;
+let y = 6;
+console.log("The substraction is : ",x*y);
